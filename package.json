@@ -1,0 +1,18 @@
+{
+  "name": "json-server-deploy",
+  "version": "1.0.0",
+  "description": "Simple json database for to do app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "st":" json-server --port 8000 --watch db.json"
+  },
+  "keywords": [
+    "json-server,heroku,glitch, node, REST API"
+  ],
+  "author": "Rezk audi",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
