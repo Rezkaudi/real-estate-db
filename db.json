@@ -1,0 +1,158 @@
+{
+  "house": [
+    {
+      "state": "For Sale",
+      "area": "150",
+      "price": "1000$",
+      "city": "homs",
+      "is_available": true,
+      "veiws": 3,
+      "description": "  This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "1.jpg",
+      "id": 1
+    },
+    {
+      "state": "For Sale",
+      "area": "250",
+      "price": "15000$",
+      "city": "homs",
+      "is_available": true,
+      "veiws": 2,
+      "description": "  This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "2.png",
+      "id": 2
+    },
+    {
+      "state": "For Sale",
+      "area": "350",
+      "price": "20000$",
+      "city": "homs",
+      "is_available": true,
+      "veiws": 0,
+      "description": "  This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "3.png",
+      "id": 3
+    },
+    {
+      "state": "For Rent",
+      "area": "350",
+      "price": "1000$",
+      "city": "homs",
+      "is_available": true,
+      "veiws": 0,
+      "description": "  This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "4.png",
+      "id": 4
+    },
+    {
+      "state": "For Rent",
+      "area": "150",
+      "price": "500$",
+      "city": "hama",
+      "is_available": true,
+      "veiws": 1,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "5.png",
+      "id": 5
+    },
+    {
+      "state": "For Mortgage",
+      "area": "200",
+      "price": "1500$",
+      "city": "damascus",
+      "is_available": true,
+      "veiws": 1,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "6.png",
+      "id": 6
+    },
+    {
+      "state": "For Sale",
+      "area": "300",
+      "price": "25000$",
+      "city": "damascus",
+      "is_available": true,
+      "veiws": 2,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "7.png",
+      "id": 7
+    },
+    {
+      "state": "For Rent",
+      "area": "100",
+      "price": "200$",
+      "city": "damascus",
+      "is_available": true,
+      "veiws": 0,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "8.png",
+      "id": 8
+    },
+    {
+      "state": "For Sale",
+      "area": "250",
+      "price": "1000$",
+      "city": "hama",
+      "is_available": true,
+      "veiws": 0,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "9.png",
+      "id": 9
+    },
+    {
+      "state": "For Rent",
+      "area": "350",
+      "price": "2000$",
+      "city": "hama",
+      "is_available": true,
+      "veiws": 1,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "10.png",
+      "id": 10
+    },
+    {
+      "state": "For Mortgage",
+      "area": "350",
+      "price": "4000$",
+      "city": "hama",
+      "is_available": true,
+      "veiws": 0,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "11.png",
+      "id": 11
+    },
+    {
+      "state": "For Rent",
+      "area": "200",
+      "price": "2000$",
+      "city": "hama",
+      "is_available": true,
+      "veiws": 0,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "12.png",
+      "id": 12
+    },
+    {
+      "state": "For Mortgage",
+      "area": "250",
+      "price": "5000$",
+      "city": "homs",
+      "is_available": true,
+      "veiws": 0,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "13.png",
+      "id": 13
+    },
+    {
+      "state": "For Sale",
+      "area": "250",
+      "price": "20000$",
+      "city": "homs",
+      "is_available": true,
+      "veiws": 0,
+      "description": "This is a wonderfully designed and meticulously maintained 4 bedroom, 3 bath ranch in the highly scenic and sought after Chism Trail neighborhood. A mere 14 miles from the airport and 19 miles from downtown, high end and convenient living abounds. Who says you can't have it all? Bates elementary school is just minutes away, along with an abundance of nearby restaurants, shopping, the Parklands and so much more. This stately brick home also highlights a combined 2,765 square feet of finished and flowing living space, including an expansive finished basement that feels brighter (note the large daylight windows) than most other homes' primary levels.A 5th bedroom can easily be added to the wide-open finished lower level and you'd still be left with an enormous entertainment area. The primary level great room showcases airy 10 foot ceilings with an inviting open kitchen and dining area layout. And your backyard deck area just off of the kitchen is framed by a tree lined backdrop. This home exudes turn-key tranquility. The smartly designed primary level includes 3 of the bedrooms with the 4th one (and a full bath) located in the truly versatile basement. The quality and craftsmanship of this build is evident even in the bonus unfinished areas. The large primary suite includes a walk-in closet, double tray ceilings, crown molding and a bath with double sinks and a large tiled shower. 10120 Reeseman Drive is a like-new property (built in 2013) that is ready for its lucky new owners. Contact the listing agent for a private showing of this exceptional home, and then make it yours!\",",
+      "file": "14.jpg",
+      "id": 14
+    }
+  ]
+}
